@@ -2,7 +2,7 @@
 
 ## About
 
-A bower managed example silk site integrating Bootstrap with SCSS.
+A bower managed example [silk](http://www.silkyweb.org) site integrating Bootstrap with SCSS.
 
 ## Dependencies
 
