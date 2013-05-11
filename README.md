@@ -10,4 +10,4 @@ You need [bower](https://github.com/bower/bower).
 
 ## Usage
 
-bower install https://github.com/silk-web-toolkit/silk-twitter-bootstrap-scss-site
+bower install silk-web-toolkit/silk-twitter-bootstrap-scss-site
